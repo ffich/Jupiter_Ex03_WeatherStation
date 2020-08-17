@@ -1,0 +1,12 @@
+{
+    "name": "Ex03_WheaterStation",
+    "description": "Wheater station based on Jupiter System and Wheather click. It can measure temperature, relative humidity and barometric pressure.",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
